@@ -1,6 +1,8 @@
 ## Feature/bug description
 Description: <!-- describe if commit comment(s) is not self-explanatory -->
+
 Task link: <!-- link to task in Jira, Trello, Azure DevOps, etc -->
+
 Documentation link:
 
 ### Pull request checklist
